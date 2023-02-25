@@ -6,8 +6,9 @@ public class Deneme {
         System.out.println("dunya");
         System.out.println("B129");
 
+
 //çakışma
-        //merhaba dunya
+//merhaba dunya
 
     }
 }
