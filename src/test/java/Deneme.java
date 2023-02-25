@@ -10,7 +10,7 @@ public class Deneme {
 //çakışma
 //merhaba dunya
 //ERol branch
-
+//erol yanlış yorum
 
     }
 }
