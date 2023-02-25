@@ -5,7 +5,7 @@ public class Deneme {
         System.out.println("merhaba");
         System.out.println("dunya");
         System.out.println("B129");
-        //merhaba dunya
+        //Github
 
 
     }
